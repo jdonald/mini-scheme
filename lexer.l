@@ -8,6 +8,7 @@ extern int yyparse();
 
 %option noyywrap
 %option yylineno
+%option nounput
 
 %%
 
