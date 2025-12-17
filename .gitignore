@@ -39,3 +39,10 @@
 
 # debug information files
 *.dwo
+
+# mini-scheme specific
+mini-scheme
+lex.yy.cpp
+parser.tab.cpp
+parser.tab.hpp
+parser.tab.h
